@@ -1,4 +1,4 @@
-# Update time: 2025-03-27 20:39:34
+# Update time: 2025-03-28 09:36:49
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -268,8 +268,6 @@ advertisers.js|
 @@||tongji.*kuwo.cn^
 ||gg*.51cto.com^
 ||tracker*.qcloud.com^
-||us.*.qwadro.com^
-||tnc16-*.byteoversea.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||ping*.qq.com^
@@ -333,6 +331,7 @@ advertisers.js|
 ||ad.*.xiaomi.com^
 ||mon*-misc-lf.fqnovel.com^
 ||ads*.textra.me^
+||us.*.qwadro.com^
 ||aj2*.online^
 ||cs*.mp3bars.com^
 ||zazgiyoh*.xyz^
@@ -359,7 +358,6 @@ advertisers.js|
 ||mcs-*.lemon8-app.com^
 ||cdn-adn-*.rayjump.com^
 ||zahrvfbd*.xyz^
-||stlog*-local.kakao.com^
 ||adx-*.op.dbankcloud.com.edgekey.net^
 ||p2pup*.gamedl.qq.com^
 ||zcchyr*.xyz^
@@ -508,6 +506,7 @@ advertisers.js|
 ||aj2*.bid^
 ||analytics*.prezly.com^
 ||collector*.ex.co^
+||tnc16-*.byteoversea.com^
 ||adserver*.euroweeklynews.com^
 analytics-*.aasaam.com
 ||an.yandex.
@@ -515,14 +514,11 @@ analytics-*.aasaam.com
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
-||rgfftupf.
 ||rum*.a.trbcdn.net^
 ||adservice.google.
 ||analytics-api.dvdfab.
 ||xlog*-*.tiktokv.com^
-||counter*.stat.ovh^
 |load.sst.
-||ads.livetv*.me^
 ||allsportsflix.
 ||iphone-caviar.ru*entranceId
 ||w*statistics.info^
@@ -588,6 +584,7 @@ analytics-*.aasaam.com
 ||tnc*.tiktokv.us^
 ||log-collector.shopee.
 ||ad*.tmgrup.com.tr^
+||ulogs*.gifshow.com^
 ||goodadvert.
 ||tnc*.zijieapi.com^
 ||tracker.twenga.
@@ -646,8 +643,8 @@ analytics-*.aasaam.com
 ||stats*.videonow.ru^
 ||pixel.archive.
 ||track.tiara.
+||stlog*-local.kakao.com^
 ||orbit*.lun.ua^
-||reachableads-av.*.amazonaws.com^
 ||popupclick.
 ||ad*.thisisgame.com^
 |load.sgtm.
@@ -691,47 +688,23 @@ analytics-*.aasaam.com
 ||query*.petametrics.com^
 ||button.blogs.yandex.
 ||collector.xhamster*.
-||fxhpaoxqyajvmdg.
 ||poptraf.
 ||zbb.bbb.*.pics^
 ||tw*.netcore.co.in^
 ||v*.sitecounter.site^
+||reachableads-av.*.amazonaws.com^
 ||ads*.opensubtitles.org^
-||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
 @@||adobeid-*.services.adobe.com^
-||centent.streamp1ay.
-||142.91.159.
 ||fapnado.*.php|
 ||itechpost.com*adbk
+||rgfftupf.
 @@||cdn*.porn300.com^
+||gamenguide.com*adbk
+||counter*.stat.ovh^
+||centent.streamp1ay.
+||ads.livetv*.me^
+||142.91.159.
+||fxhpaoxqyajvmdg.
 ||cintent.streanplay.
 Banner468x60
-                }
-            2025 Copyright | All Rights Reserved.
-                console.log(JSON.parse(xhr.responseText))
-<style>
-        ];
-    }
-<script>
-            pageOptions
-    xhr.send();
-                    return;
-    };
-            } else {
-h1 {
-	}
-        loadFeed(...getLoadFeedArguments());
-    function getLoadFeedArguments() {
-    <script>
-                arguments.push(this[possibleArguments[i]]);
-        }
-                console.log('There was a problem with the request.');
-            }
-        return arguments;
-};
-			Buy this domain. | More domains at Seo.Domains
-<!DOCTYPE html>
-    Privacy Policy
-body {
-}
