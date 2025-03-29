@@ -1,4 +1,4 @@
-# Update time: 2025-03-29 09:35:50
+# Update time: 2025-03-29 20:35:31
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -55,7 +55,6 @@
 ||avito.avito.avito.
 ||yandex.pay.avito.
 ||report.*.qq.com^
-||onetrust.
 ||allyes.
 ||icast.
 ||gg.
@@ -65,6 +64,7 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
+||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -75,6 +75,7 @@
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
+||onetrust.
 ||adx.
 ||adx-
 ||adsfs.
@@ -96,7 +97,6 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
-||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -133,9 +133,6 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
-<head>
-<body>
-<!doctype html>
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||67.21.92.*.gif
@@ -164,34 +161,9 @@ advertisers.js|
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-<script>
-            pageOptions
-    xhr.send();
-            } else {
-h1 {
-	}
-        loadFeed(...getLoadFeedArguments());
-    function getLoadFeedArguments() {
-                arguments.push(this[possibleArguments[i]]);
-        }
-};
-			Buy this domain. | More domains at Seo.Domains
-                }
-            2025 Copyright | All Rights Reserved.
-                console.log(JSON.parse(xhr.responseText))
-<style>
-        ];
-    Privacy Policy
-    }
-                    return;
-    };
-    <script>
-<!DOCTYPE html>
-body {
-                console.log('There was a problem with the request.');
-            }
-        return arguments;
-}
+<head>
+<body>
+<!doctype html>
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
 ||da.hornbach.*^
@@ -296,8 +268,6 @@ body {
 @@||tongji.*kuwo.cn^
 ||gg*.51cto.com^
 ||tracker*.qcloud.com^
-||us.*.qwadro.com^
-||tnc16-*.byteoversea.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||ping*.qq.com^
@@ -316,6 +286,7 @@ body {
 ||mon-*.lemon8-app.us^
 ||mon-*.lemon8-app.com^
 ||log*-misc-lf.amemv.com^
+||stats2.*.fdnames.com^
 ||v*.denakop.com^
 ||opnked*.xyz^
 ||ajx*.online^
@@ -353,11 +324,13 @@ body {
 ||logservice-*.platform.dbankcloud.cn^
 ||clickstream-*.homedepot.com^
 ||log*-normal-useast1a.lemon8-app.com^
+||stat*.1internet.tv^
 ||dj1*.online^
 ||log*.byteoversea.com^
 ||ad.*.xiaomi.com^
 ||mon*-misc-lf.fqnovel.com^
 ||ads*.textra.me^
+||us.*.qwadro.com^
 ||aj2*.online^
 ||cs*.mp3bars.com^
 ||zazgiyoh*.xyz^
@@ -423,13 +396,13 @@ body {
 ||servo-report.keepstreams.*^
 ||pangolin-sdk-toutiao*.com^
 ||clog*.yuanfudao.com^
-||creative*.bidease.com^
 ||mapi-log.qoo*.jp^
 ||w*.*skwai.com^
 ||analytics-*-nfl.yinzcam.com^
 ||ad*.on.cc^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||rtlog*.tiktokv.us^
+||st-*.dynamicyield.com^
 ||host*.ncoi.nl^
 ||lively-collect-elb-*.amazonaws.com^
 ||analytics-rollout-*.amazonaws.com^
@@ -441,6 +414,7 @@ body {
 ||ads*.zijieapi.com^
 ||host*.polaroid.com^
 ||www.xxmh*.com^
+||staging-*.ispot.tv^
 ||cas.*.criteo.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||n*adserv.com^
@@ -507,6 +481,7 @@ body {
 ||promo-*.vercel.app^
 ||banner.*.tccapis.com^
 ||geoloc*.geostats.ovh^
+||ssp*.rtb.beeline.ru^
 ||log-*.zadn.vn^
 ||qn-*pcdn.cdn.msstatic.com^
 ||js.*2023*.live^
@@ -533,6 +508,7 @@ body {
 analytics-*.aasaam.com
 ||an.yandex.
 ||gtmdev.jabra.
+||creative*.bidease.com^
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
@@ -545,7 +521,6 @@ analytics-*.aasaam.com
 ||iphone-caviar.ru*entranceId
 ||w*statistics.info^
 ||v*-ad.video.yximgs.com^
-||st-*.dynamicyield.com^
 ||bondzgi*.
 ||prebid-*.rubiconproject.com^
 ||rum*.cdnvideo.ru^
@@ -563,11 +538,9 @@ analytics-*.aasaam.com
 ||www.fuze-sea*.xyz^
 ||metrics*.fitanalytics.com^
 ||edgetrksvc.ebay.
-||stats2.*.fdnames.com^
 ||stats.zone-telechargement.
 ||eclog*-*.cafe24.com^
 ||clk.rtpdn*.com^
-||staging-*.ispot.tv^
 ||flipflapflo.
 ||gonews*.net^
 ||real*traf.ru^
@@ -620,7 +593,6 @@ analytics-*.aasaam.com
 ||adimg*.search.naver.net^
 ||log*.zijieapi.com^
 ||icq-window.
-||stat*.1internet.tv^
 ||icqwindow.
 ||rb*.design.ru^
 ||st-n.ads*-adnow.com^
@@ -667,7 +639,6 @@ analytics-*.aasaam.com
 ||poshalim.
 ||158.247.208.
 |load.gtm.
-||ssp*.rtb.beeline.ru^
 ||stats*.videonow.ru^
 ||pixel.archive.
 ||track.tiara.
@@ -720,6 +691,7 @@ analytics-*.aasaam.com
 ||zbb.bbb.*.pics^
 ||tw*.netcore.co.in^
 ||v*.sitecounter.site^
+||tnc16-*.byteoversea.com^
 ||reachableads-av.*.amazonaws.com^
 ||ads*.opensubtitles.org^
 rgmechanicsgames.com*VPN.exe
@@ -736,3 +708,33 @@ rgmechanicsgames.com*VPN.exe
 ||fxhpaoxqyajvmdg.
 ||cintent.streanplay.
 Banner468x60
+            2025 Copyright | All Rights Reserved.
+                console.log(JSON.parse(xhr.responseText))
+<style>
+        ];
+<script>
+                    return;
+h1 {
+	}
+        loadFeed(...getLoadFeedArguments());
+                arguments.push(this[possibleArguments[i]]);
+<!DOCTYPE html>
+        }
+body {
+                console.log('There was a problem with the request.');
+}
+};
+			Buy this domain. | More domains at Seo.Domains
+                }
+    Privacy Policy
+    }
+            pageOptions
+    xhr.send();
+    };
+            } else {
+    function getLoadFeedArguments() {
+    <script>
+<!DOCTYPE html>
+                console.log('There was a problem with the request.');
+            }
+        return arguments;
