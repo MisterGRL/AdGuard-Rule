@@ -1,4 +1,4 @@
-# Update time: 2025-05-04 20:37:30
+# Update time: 2025-05-05 09:45:59
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -164,6 +164,38 @@ advertisers.js|
 <head>
 <body>
 <!doctype html>
+	}
+    })();
+<div>
+iframe {
+<style>
+    (function () {
+body {
+}
+<script>
+			Buy this domain. | More domains at Seo.Domains
+                }
+            2025 Copyright | All Rights Reserved.
+                console.log(JSON.parse(xhr.responseText))
+        ];
+    Privacy Policy
+    }
+            pageOptions
+    xhr.send();
+                    return;
+    };
+            } else {
+h1 {
+        loadFeed(...getLoadFeedArguments());
+    function getLoadFeedArguments() {
+    <script>
+                arguments.push(this[possibleArguments[i]]);
+<!DOCTYPE html>
+        }
+                console.log('There was a problem with the request.');
+            }
+        return arguments;
+};
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
 ||da.hornbach.*^
@@ -267,6 +299,8 @@ advertisers.js|
 @@||tongji.*kuwo.cn^
 ||gg*.51cto.com^
 ||tracker*.qcloud.com^
+||us.*.qwadro.com^
+||tnc16-*.byteoversea.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||ping*.qq.com^
@@ -330,7 +364,6 @@ advertisers.js|
 ||ad.*.xiaomi.com^
 ||mon*-misc-lf.fqnovel.com^
 ||ads*.textra.me^
-||us.*.qwadro.com^
 ||aj2*.online^
 ||cs*.mp3bars.com^
 ||zazgiyoh*.xyz^
@@ -399,6 +432,7 @@ advertisers.js|
 ||pangolin-sdk-toutiao*.com^
 ||collector-*.luigisbox.com^
 ||clog*.yuanfudao.com^
+||creative*.bidease.com^
 ||mapi-log.qoo*.jp^
 ||api16-access-ttp*.tiktokpangle-b.us^
 ||w*.*skwai.com^
@@ -511,12 +545,10 @@ advertisers.js|
 ||aj2*.bid^
 ||analytics*.prezly.com^
 ||collector*.ex.co^
-||tnc16-*.byteoversea.com^
 ||adserver*.euroweeklynews.com^
 analytics-*.aasaam.com
 ||an.yandex.
 ||gtmdev.jabra.
-||creative*.bidease.com^
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
