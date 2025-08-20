@@ -1,4 +1,4 @@
-# Update time: 2025-08-20 09:42:02
+# Update time: 2025-08-20 20:42:51
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -164,6 +164,35 @@ advertisers.js|
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+<script>
+    <noscript>
+            pageOptions
+    xhr.send();
+            } else {
+h1 {
+	}
+        loadFeed(...getLoadFeedArguments());
+    function getLoadFeedArguments() {
+                arguments.push(this[possibleArguments[i]]);
+        }
+};
+			Buy this domain. | More domains at Seo.Domains
+                }
+            2025 Copyright | All Rights Reserved.
+                console.log(JSON.parse(xhr.responseText))
+<style>
+        ];
+    Privacy Policy
+    }
+                    return;
+    };
+    <script>
+<!DOCTYPE html>
+body {
+                console.log('There was a problem with the request.');
+            }
+        return arguments;
+}
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
 ||da.hornbach.*^
@@ -341,6 +370,7 @@ advertisers.js|
 ||ads*.textra.me^
 ||aj2*.online^
 ||cs*.mp3bars.com^
+||tracking-v*.a.run.app^
 ||zazgiyoh*.xyz^
 ||stats*.credit-cooperatif.coop^
 ||tracking*.euroads.fi^
@@ -632,7 +662,6 @@ analytics-*.aasaam.com
 ||ecommerce-events*.adscale.com^
 ||counter*.freecounter.ovh^
 ||grs.dbankcloud.
-||tracking-v*.a.run.app^
 ||collector.hamsterix.
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||i-*.ci360.sas.com^
@@ -640,7 +669,6 @@ analytics-*.aasaam.com
 ||ad*.bilgin.pro^
 ||track.zalando.
 ||seller-log-collector.shopee.
-||advert*.livesportmedia.eu^
 ||px*.mediahills.ru^
 ||subnewss*.net^
 ||23.109.87.
@@ -696,6 +724,7 @@ analytics-*.aasaam.com
 ||adserver1.
 ||ad*.mellesleg.hu^
 ||sgtm.wimdu.
+||mcs.*.tiktok.com^
 ||backstory.ebay.
 ||adx-*.dbankcloud.
 ||pop-parad.
@@ -723,35 +752,6 @@ analytics-*.aasaam.com
 ||zbb.bbb.*.pics^
 ||tw*.netcore.co.in^
 ||v*.sitecounter.site^
-<script>
-    <noscript>
-            pageOptions
-    xhr.send();
-            } else {
-h1 {
-	}
-        loadFeed(...getLoadFeedArguments());
-    function getLoadFeedArguments() {
-                arguments.push(this[possibleArguments[i]]);
-        }
-};
-			Buy this domain. | More domains at Seo.Domains
-                }
-            2025 Copyright | All Rights Reserved.
-                console.log(JSON.parse(xhr.responseText))
-<style>
-        ];
-    Privacy Policy
-    }
-                    return;
-    };
-    <script>
-<!DOCTYPE html>
-body {
-                console.log('There was a problem with the request.');
-            }
-        return arguments;
-}
 ||reachableads-av.*.amazonaws.com^
 ||ads*.opensubtitles.org^
 rgmechanicsgames.com*VPN.exe
@@ -764,6 +764,7 @@ rgmechanicsgames.com*VPN.exe
 ||counter*.stat.ovh^
 ||centent.streamp1ay.
 ||ads.livetv*.me^
+||advert*.livesportmedia.eu^
 ||142.91.159.
 ||fxhpaoxqyajvmdg.
 ||cintent.streanplay.
