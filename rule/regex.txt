@@ -1,4 +1,4 @@
-# Update time: 2025-10-31 20:43:09
+# Update time: 2025-11-01 09:46:03
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -191,13 +191,6 @@ body {
                 console.log('There was a problem with the request.');
             }
 }
-    <script>
-  console.log('Callback complete.');
-        body {
-        iframe {
-||us.*.qwadro.com^
-||iad-*.braze.com^
-||tnc16-*.byteoversea.com^
 ||da.hornbach.*^
 ||dm-*.toutiao.com^
 ||adsystem*.*^
@@ -255,6 +248,8 @@ body {
 ||qchannel*.cn^
 ||tracker*.qcloud.com^
 ||adwords*.*^
+||us.*.qwadro.com^
+||tnc16-*.byteoversea.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||ping*.qq.com^
@@ -329,8 +324,6 @@ body {
 ||ads*.textra.me^
 ||aj2*.online^
 ||cs*.mp3bars.com^
-||ecommerce-events*.adscale.com^
-||tracking-v*.a.run.app^
 ||zazgiyoh*.xyz^
 ||stats*.credit-cooperatif.coop^
 ||tracking*.euroads.fi^
@@ -444,7 +437,6 @@ body {
 ||event.*.karrotmarket.com^
 ||a*.chajiaotong.com^
 ||gads*s.com^
-||trk*.vidible.tv^
 ||gscounters.*.gigya.com^
 ||adserver.*.yahoodns.net^
 ||fads*z.com^
@@ -483,7 +475,6 @@ body {
 ||api*.amplitude.com^
 ||app-analytics-*.snapchat.com^
 ||matomo.*.vn^
-||ubacollect-*.cloud.dbankcloud.cn^
 ||appanalysis*.banggood.com^
 ||maas-*.phunware.com^
 ||tw-726620180914.*.run.app^
@@ -519,6 +510,7 @@ body {
 ||analytics*.carambo.la^
 ||chat*-ce.chatdealer.jp^
 ||aan.amazon.*^
+||iad-*.braze.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||bjsvp*.space^
 ||tracking-*.trnox.com^
@@ -539,8 +531,11 @@ analytics-*.aasaam.com
 ||gtmdev.jabra.
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
+||rgfftupf.
 ||adservice.google.
+||counter*.stat.ovh^
 |load.sst.
+||ads.livetv*.me^
 ||allsportsflix.
 ||iphone-caviar.ru*entranceId
 ||w*statistics.info^
@@ -583,8 +578,10 @@ analytics-*.aasaam.com
 ||rb*.design.ru^
 ||logs*.smithsonian.museum^
 ||bar*.shinobi.jp^
+||ecommerce-events*.adscale.com^
 ||counter*.freecounter.ovh^
 ||grs.dbankcloud.
+||tracking-v*.a.run.app^
 ||a*.smlog.co.kr^
 ||track.zalando.
 ||seller-log-collector.shopee.
@@ -630,6 +627,7 @@ analytics-*.aasaam.com
 ||mf*.advantage.as^
 ||query*.petametrics.com^
 ||button.blogs.yandex.
+||fxhpaoxqyajvmdg.
 ||zbb.bbb.*.pics^
 ||tw*.netcore.co.in^
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
@@ -658,6 +656,7 @@ analytics-*.aasaam.com
 ||cnt.hd21.
 ||ulog.*.ksapisrv.com^
 ||servo-report.dvdfab.
+||trk*.vidible.tv^
 ||pop-under.
 ||talpa-analytics.
 ||pixelapi-*.cs.mysamba.tv^
@@ -689,6 +688,7 @@ analytics-*.aasaam.com
 ||px*.mediahills.ru^
 ||23.109.87.
 ||ulog.*.kwai-pro.com^
+||ubacollect-*.cloud.dbankcloud.cn^
 ||rotaban.
 ||prebid-cache*.ifunny.co^
 ||cnt.proporn.
@@ -700,6 +700,7 @@ analytics-*.aasaam.com
 |load.gtm.
 ||stats*.videonow.ru^
 ||pixel.archive.
+||reachableads-av.*.amazonaws.com^
 ||ad*.thisisgame.com^
 ||q*-publick.club^
 ||iad-*.appboy.com^
@@ -726,18 +727,13 @@ analytics-*.aasaam.com
 ||poptraf.
 ||v*.sitecounter.site^
 ||touch.yesim.
-||reachableads-av.*.amazonaws.com^
 ||ads*.opensubtitles.org^
+||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
+||142.91.159.
 ||javascriptbasics^
 ||fapnado.*.php|
 ||itechpost.com*adbk
-||rgfftupf.
 @@||cdn*.porn300.com^
 ||admi2fib4exit^
-||gamenguide.com*adbk
-||counter*.stat.ovh^
-||ads.livetv*.me^
-||142.91.159.
-||fxhpaoxqyajvmdg.
 Banner468x60
