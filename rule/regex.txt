@@ -1,4 +1,4 @@
-# Update time: 2025-12-05 09:47:57
+# Update time: 2025-12-05 20:46:14
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -64,7 +64,6 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
-||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -97,6 +96,7 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
+||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -142,7 +142,6 @@ advertisers.js|
 ||uc*.atobo.com^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
-||bdlm*.hc360.com^
 728x90.jpg|
 ||ya*.dwstatic.com^
 ||fpb*.51edu.com^
@@ -167,9 +166,6 @@ advertisers.js|
 ||ky891.oss-*.aliyuncs.com^
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
-||us.*.qwadro.com^
-||iad-*.braze.com^
-||tnc16-*.byteoversea.com^
 ||da.hornbach.*^
 ||dm-*.toutiao.com^
 ||adsystem*.*^
@@ -227,6 +223,8 @@ advertisers.js|
 ||qchannel*.cn^
 ||tracker*.qcloud.com^
 ||adwords*.*^
+||us.*.qwadro.com^
+||tnc16-*.byteoversea.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||ping*.qq.com^
@@ -272,6 +270,7 @@ advertisers.js|
 ||api*.bidmachine.io^
 ||t*.playdigo.live^
 ||geotargetly-api-*.com^
+||tnc16-*.hypic.com^
 ||mcs-va-*.tiktokv.com^
 ||events-api*.outfit7.com^
 ||display-ad-*.kgslb.com^
@@ -303,6 +302,7 @@ advertisers.js|
 ||ecommerce-events*.adscale.com^
 ||zazgiyoh*.xyz^
 ||stats*.credit-cooperatif.coop^
+||tracking*.euroads.fi^
 ||ulog*.*^
 ||mcs-*.tiktok.com^
 ||ifengad.*.ifeng.com^
@@ -471,6 +471,7 @@ advertisers.js|
 ||aj3*.bid^
 ||host*.rvshare.com^
 ||log*-*.tiktokv.com^
+||events-*.op.hicloud.com^
 ||zbc6hye*.xyz^
 ||logs-*.rebxgame.com^
 ||promo-*.vercel.app^
@@ -486,9 +487,11 @@ advertisers.js|
 ||js.*2023*.live^
 ||collect-v*.51.la^
 ||logger-*.dailymotion.com^
+||bdlm*.hc360.com^
 ||analytics*.carambo.la^
 ||chat*-ce.chatdealer.jp^
 ||aan.amazon.*^
+||iad-*.braze.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||bjsvp*.space^
 ||hw-p2p*pull*com^
@@ -507,15 +510,11 @@ analytics-*.aasaam.com
 ||gtmdev.jabra.
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
-||rgfftupf.
 ||adservice.google.
-||counter*.stat.ovh^
 |load.sst.
-||ads.livetv*.me^
 ||allsportsflix.
 ||iphone-caviar.ru*entranceId
 ||w*statistics.info^
-||prebid-*.rubiconproject.com^
 ||nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi^
 ||sgtm.fashionunited.
 ||partner.superbahisaffiliates*.com^
@@ -542,7 +541,6 @@ analytics-*.aasaam.com
 ||sock*-goguardian.pusher.com^
 ||basvformu*.xyz^
 |load.ss.
-||tnc16-*.hypic.com^
 ||linkexchange.
 ||pangolin*.sgsnssdk.com^
 ||block.s*block.com^
@@ -558,11 +556,9 @@ analytics-*.aasaam.com
 ||counter*.freecounter.ovh^
 ||grs.dbankcloud.
 ||tracking-v*.a.run.app^
-||tracking*.euroads.fi^
 ||a*.smlog.co.kr^
 ||track.zalando.
 ||seller-log-collector.shopee.
-||advert*.livesportmedia.eu^
 ||subnewss*.net^
 ||t.delfi.
 ||hostingcloud.*.wasm^
@@ -588,7 +584,6 @@ analytics-*.aasaam.com
 |piwik.
 ||letssex.
 ||production-adserver-*.amazonaws.com^
-||ad-host-backup-*.aliyuncs.com^
 ||cl*.k5a.io^
 ||analytics.ahrefs.
 ||s*.adduplex.com^
@@ -606,7 +601,6 @@ analytics-*.aasaam.com
 ||mf*.advantage.as^
 ||query*.petametrics.com^
 ||button.blogs.yandex.
-||fxhpaoxqyajvmdg.
 ||zbb.bbb.*.pics^
 ||tw*.netcore.co.in^
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
@@ -675,13 +669,11 @@ analytics-*.aasaam.com
 ||cnt.proporn.
 ||popuptraf.
 ||ulog*.kwaipros.com^
-||events-*.op.hicloud.com^
 ||vst.videolink.
 ||158.247.208.
 |load.gtm.
 ||stats*.videonow.ru^
 ||pixel.archive.
-||reachableads-av.*.amazonaws.com^
 ||ad*.thisisgame.com^
 ||q*-publick.club^
 ||iad-*.appboy.com^
@@ -710,11 +702,19 @@ analytics-*.aasaam.com
 ||poptraf.
 ||v*.sitecounter.site^
 ||touch.yesim.
+||reachableads-av.*.amazonaws.com^
 ||ads*.opensubtitles.org^
-||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
-||142.91.159.
+||ad-host-backup-*.aliyuncs.com^
 ||fapnado.*.php|
 ||itechpost.com*adbk
+||rgfftupf.
 @@||cdn*.porn300.com^
+||gamenguide.com*adbk
+||counter*.stat.ovh^
+||ads.livetv*.me^
+||advert*.livesportmedia.eu^
+||142.91.159.
+||fxhpaoxqyajvmdg.
+||prebid-*.rubiconproject.com^
 Banner468x60
