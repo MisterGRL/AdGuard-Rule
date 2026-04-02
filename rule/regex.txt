@@ -1,4 +1,4 @@
-# Update time: 2026-04-01 21:26:40
+# Update time: 2026-04-02 10:32:51
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -133,12 +133,12 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
-} catch (err) {
-<html>
+			clearTimeout(rdrTimeout);
 <head>
 	window.location.replace(redirect_link + suffix);
-			clearTimeout(rdrTimeout);
+} catch (err) {
 function redirect(suffix) {
+<html>
 	if (redirected) return;
 		});
 }
@@ -159,10 +159,8 @@ try {
 ||mobiadvert*.livesportmedia.eu^
 ||iad-*.appboy.com^
 ||jtbo*.nqxvevk.cn^
-||events-*.op.hicloud.com^
 ||iad-*.braze.com^
 ||ms*.applvn.com^
-||ifengad.*.ifeng.com^
 ||v*-ad.video.yximgs.com^
 ||nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi^
 ||da.hornbach.*^
@@ -288,6 +286,7 @@ analytics-*.aasaam.com
 ||weblogger-wss.cool*cloud.com^
 ||track.zalando.
 ||seller-log-collector.shopee.
+||advert*.livesportmedia.eu^
 ||subnewss*.net^
 ||t.delfi.
 ||hostingcloud.*.wasm^
@@ -310,7 +309,6 @@ analytics-*.aasaam.com
 ||dw-informer-*.newsru.com^
 |piwik.
 ||letssex.
-||ad-host-backup-*.aliyuncs.com^
 ||cl*.k5a.io^
 ||analytics.ahrefs.
 ||s*.adduplex.com^
@@ -403,7 +401,6 @@ analytics-*.aasaam.com
 |load.gtm.
 ||stats*.videonow.ru^
 ||pixel.archive.
-||reachableads-av.*.amazonaws.com^
 ||ad*.thisisgame.com^
 ||q*-publick.club^
 ||minitds-*.info^
@@ -413,7 +410,6 @@ analytics-*.aasaam.com
 ||snowplow-collector-*.amazonaws.com^
 ||ya*.dwstatic.com^
 ||thegreatesthits.
-||tracking-*.trnox.com^
 ||sgtm.wimdu.
 ||snowplow-collector.
 ||www.fuze-hill*.xyz^
@@ -519,6 +515,7 @@ analytics-*.aasaam.com
 ||ulog*.*^
 ||a*.smlog.co.kr^
 ||mcs-*.tiktok.com^
+||ifengad.*.ifeng.com^
 ||bjkedv*.xyz^
 ||p26.gejulm*.com^
 ||adservice.google.*^
@@ -597,6 +594,7 @@ analytics-*.aasaam.com
 ||mapi-log.qoo*.jp^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
+||ja*.apppure.net^
 ||api16-access-ttp*.tiktokpangle-b.us^
 ||w*.*skwai.com^
 ||logs.collector.*.cloud.solarwinds.com^
@@ -697,6 +695,7 @@ analytics-*.aasaam.com
 ||aj3*.bid^
 ||host*.rvshare.com^
 ||log*-*.tiktokv.com^
+||events-*.op.hicloud.com^
 ||zbc6hye*.xyz^
 ||logs-*.rebxgame.com^
 ||promo-*.vercel.app^
@@ -720,6 +719,7 @@ analytics-*.aasaam.com
 ||track-*.hungrypanda.co^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||bjsvp*.space^
+||tracking-*.trnox.com^
 ||telemetry.*.pvp.net^
 ||gtlpa*.com^
 ||gbxreport-*.wf.com^
@@ -735,8 +735,10 @@ analytics-*.aasaam.com
 ||collector*.ex.co^
 ||union*.365inews.com^
 ||vns86.oss-*.aliyuncs.com^
+||reachableads-av.*.amazonaws.com^
 ||ads*.opensubtitles.org^
 rgmechanicsgames.com*VPN.exe
+||ad-host-backup-*.aliyuncs.com^
 ||fapnado.*.php|
 ||itechpost.com*adbk
 ||rgfftupf.
@@ -744,7 +746,6 @@ rgmechanicsgames.com*VPN.exe
 ||gamenguide.com*adbk
 ||counter*.stat.ovh^
 ||ads.livetv*.me^
-||advert*.livesportmedia.eu^
 ||142.91.159.
 ||fxhpaoxqyajvmdg.
 Banner468x60
