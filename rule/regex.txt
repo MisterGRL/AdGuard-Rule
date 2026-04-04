@@ -1,4 +1,4 @@
-# Update time: 2026-04-04 10:26:23
+# Update time: 2026-04-04 21:00:19
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -64,7 +64,6 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
-||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -97,6 +96,7 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
+||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -134,15 +134,15 @@ advertisers.js|
 ||advertise.
 ||ap*.pl520.com^
 	window.location.replace(redirect_link + suffix);
-			clearTimeout(rdrTimeout);
 } catch (err) {
 function redirect(suffix) {
 <html>
-<head>
 	if (redirected) return;
 		});
 }
 try {
+			clearTimeout(rdrTimeout);
+<head>
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
 ||marketplace-*.hyprmx.com^
@@ -356,7 +356,6 @@ analytics-*.aasaam.com
 ||cnt.hd21.
 ||ulog.*.ksapisrv.com^
 ||servo-report.dvdfab.
-||trk*.vidible.tv^
 ||pop-under.
 ||talpa-analytics.
 ||pixelapi-*.cs.mysamba.tv^
@@ -634,6 +633,7 @@ analytics-*.aasaam.com
 ||event.*.karrotmarket.com^
 ||a*.chajiaotong.com^
 ||gads*s.com^
+||trk*.vidible.tv^
 ||gscounters.*.gigya.com^
 ||adserver.*.yahoodns.net^
 ||fads*z.com^
