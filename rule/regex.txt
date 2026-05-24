@@ -1,4 +1,4 @@
-# Update time: 2026-05-24 11:50:29
+# Update time: 2026-05-24 21:39:57
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -281,6 +281,7 @@ analytics-*.aasaam.com
 ||weblogger-wss.cool*cloud.com^
 ||track.zalando.
 ||seller-log-collector.shopee.
+||advert*.livesportmedia.eu^
 ||subnewss*.net^
 ||t.delfi.
 ||hostingcloud.*.wasm^
@@ -303,7 +304,6 @@ analytics-*.aasaam.com
 ||dw-informer-*.newsru.com^
 |piwik.
 ||letssex.
-||ad-host-backup-*.aliyuncs.com^
 ||cl*.k5a.io^
 ||analytics.ahrefs.
 ||s*.adduplex.com^
@@ -344,7 +344,6 @@ analytics-*.aasaam.com
 ||eclog*-*.cafe24.com^
 ||s*.skencituer.com^
 ||underclick.
-||advertising.civitai.
 ||bc.geocities.
 ||tag-based.s3.*.amazonaws.com^
 ||cnt.hd21.
@@ -393,7 +392,6 @@ analytics-*.aasaam.com
 |load.gtm.
 ||stats*.videonow.ru^
 ||pixel.archive.
-||reachableads-av.*.amazonaws.com^
 ||ad*.thisisgame.com^
 ||q*-publick.club^
 ||minitds-*.info^
@@ -733,16 +731,18 @@ analytics-*.aasaam.com
 ||collector*.ex.co^
 ||union*.365inews.com^
 ||vns86.oss-*.aliyuncs.com^
+||reachableads-av.*.amazonaws.com^
 ||ads*.opensubtitles.org^
 rgmechanicsgames.com*VPN.exe
 ||23.109.82.
+||ad-host-backup-*.aliyuncs.com^
 ||fapnado.*.php|
 ||itechpost.com*adbk
 @@||cdn*.porn300.com^
 ||gamenguide.com*adbk
 ||158.247.208.
-||advert*.livesportmedia.eu^
 ||142.91.159.
 |167.206.10.148^
 ||23.109.87.
+||advertising.civitai.
 Banner468x60
